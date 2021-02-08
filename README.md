@@ -1,6 +1,6 @@
 ## 凡是过往 皆为序章 👋
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" style="max-width:100%;" width="280px" />
+<img align="right" alt="GIF" src="https://github.com/miles-rush/miles-rush/blob/main/pusheencode.gif?raw=true" style="max-width:100%;" width="280px" />
 
 ### I'm KingRainGrey 
 
