@@ -4,7 +4,7 @@
 
 ### I'm KingRainGrey 
 
-- 浙江某大学计算机专业研究僧 不务正业，整日摸鱼
+- 浙江某大学计算机专业研究生 不务正业，整日摸鱼
 - ⚡ `软件工程` && `人工智能` && `物联网？`
 - 💬 扣扣邮箱，欢迎一起讨论学习：[zhuoshumian@qq.com](mailto:zhuoshumian@qq.com)
 - ⭐个人博客： [博客园](https://www.cnblogs.com/KingRainGrey/)
