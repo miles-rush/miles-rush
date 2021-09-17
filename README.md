@@ -4,15 +4,15 @@
 
 ### I'm KingRainGrey 
 
-- 浙江某大学计算机专业研究生，几分矫情，好不洒脱
-- ⚡ `软件工程` && `人工智能` && `物联网？`&& `顶级救火队员`&& `低段位感情白痴`
+- 浙江某大学计算机专业研究生
+- ⚡ `软件工程` && `人工智能` && `物联网？`
 - 💬 扣扣邮箱，欢迎一起讨论学习：[zhuoshumian@qq.com](mailto:zhuoshumian@qq.com)
 - ⭐个人博客： [博客园](https://www.cnblogs.com/KingRainGrey/)
+- ⭐个人主页： [建设中](https://mirrormoon.top/)
 - 笔名：`素衣枕风`
 - 金桦面馆 喝丢一只鞋
 - 做自己爱做的事 
 - 永远自由
-- 不喝绿茶
 
 
 ### 🛠 技术栈 | Tech Stack
@@ -38,7 +38,7 @@
 ### 开源项目
 - [视频解析网站](https://github.com/miles-rush/VideoRes)
 - [PDR室内定位APP](https://github.com/miles-rush/IndoorNavigation)
-- [B站买房脚本](https://github.com/Bulletrushman/bilibiliTools)
+- [B站工具包](https://github.com/Bulletrushman/bilibiliTools)
 - [乐悦动APP模仿KEEP](https://github.com/miles-rush/mysports)
 - [电商后台VUE](https://github.com/miles-rush/vuedemo)
 - [Gitee](https://gitee.com/KingRainGrey)
@@ -50,7 +50,5 @@
 [![KingRainGrey's github stats](https://github-readme-stats.vercel.app/api?username=miles-rush&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 > ***我们来自远方，我们的梦想却那么近，看起来想不实现都难，然而我们并不知道，梦早已破碎。 我们继续奋力向前，逆水行舟，被不断地向后推，直至回到往昔岁月。😊***
-
-> ***大道才知是，浓情悔认真。回头皆幻景，对面是何人?😊***
 
 ⭐️ From [KingRainGrey](https://github.com/miles-rush)
