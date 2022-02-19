@@ -2,7 +2,7 @@
 ---
 <img align="right" alt="GIF" src="https://github.com/miles-rush/miles-rush/blob/main/pusheencode.gif?raw=true" style="max-width:100%;" width="280px" />
 
-### I'm KingRainGrey 
+### I'm ilovey 
 
 - 浙江某大学计算机专业研究生
 - ⚡ `软件工程` && `人工智能` && `物联网？`
