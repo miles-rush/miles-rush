@@ -2,14 +2,14 @@
 ---
 <img align="right" alt="GIF" src="https://github.com/miles-rush/miles-rush/blob/main/pusheencode.gif?raw=true" style="max-width:100%;" width="280px" />
 
-### I'm ilovey 
+### I'm KingRainGrey
 
 - 浙江某大学计算机专业研究生
 - ⚡ `软件工程` && `人工智能` && `物联网？`
 - 💬 扣扣邮箱，欢迎一起讨论学习：[zhuoshumian@qq.com](mailto:zhuoshumian@qq.com)
 - ⭐个人博客： [博客园](https://www.cnblogs.com/KingRainGrey/)
 - ⭐个人主页： [吾月花若梦](https://mirrormoon.top/)
-- 笔名：`素衣枕风`
+- 笔名：`素衣枕风` & `叁岁时就很萌`
 - 水浒烤肉李家 金桦面馆 喝丢一只鞋
 - 做自己爱做的事 
 - 永远自由
@@ -36,16 +36,24 @@
 - ...
 
 ### 开源项目
-- [视频解析网站](https://github.com/miles-rush/VideoRes)
+- [工大充电桩小程序-wx](https://github.com/miles-rush/charge)
+- [人事后台管理系统-Vue+Koa2+Vite](https://github.com/miles-rush/manager-fe)
+- [大衡轨迹后台系统](https://gitee.com/KingRainGrey/vue_traffic)
+- [智能骨龄评估系统](https://gitee.com/StupidDK/youths)
+- [电商后台管理系统-Vue](https://github.com/miles-rush/vuedemo)
+- [问卷视频管理系统-Vue+Electron13+Vite](https://github.com/miles-rush/vuedemo)
+- [视频切割工具包-Python+ffmpeg](https://github.com/miles-rush/LocalVideoPart)
+- [视频云解析网站](https://github.com/miles-rush/VideoRes)
 - [PDR室内定位APP](https://github.com/miles-rush/IndoorNavigation)
+- [乐悦动APP(模仿KEEP)](https://github.com/miles-rush/mysports)
 - [B站工具包](https://github.com/Bulletrushman/bilibiliTools)
-- [乐悦动APP模仿KEEP](https://github.com/miles-rush/mysports)
-- [电商后台VUE](https://github.com/miles-rush/vuedemo)
+
+
 - [Gitee](https://gitee.com/KingRainGrey)
 - ...
 
 ### 正在做的事
-`ilovey` && `future with y`&& `毕业论文`&& `大全栈`
+`毕业论文`&& `大全栈` && `秋招`
 
 [![KingRainGrey's github stats](https://github-readme-stats.vercel.app/api?username=miles-rush&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
