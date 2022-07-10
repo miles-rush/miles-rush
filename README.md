@@ -38,7 +38,7 @@
 
 ### 开源项目
 - [工大充电桩小程序-wx](https://github.com/miles-rush/charge)
-- [人事后台管理系统-Vue+Koa2+Vite](https://github.com/miles-rush/manager-fe)
+- [VEK后台管理系统-Vue+Koa2+Vite](https://github.com/miles-rush/manager-fe)
 - [大衡轨迹后台系统](https://gitee.com/KingRainGrey/vue_traffic)
 - [智能骨龄评估系统](https://gitee.com/StupidDK/youths)
 - [电商后台管理系统-Vue](https://github.com/miles-rush/vuedemo)
