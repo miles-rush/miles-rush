@@ -19,9 +19,9 @@
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES5-blue)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/python-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES5-blue)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![Shell](https://img.shields.io/badge/Bash-Shell-lightgrey)
 - 🌐 &#160; 
