@@ -42,7 +42,7 @@
 - [大衡轨迹后台系统](https://gitee.com/KingRainGrey/vue_traffic)
 - [智能骨龄评估系统](https://gitee.com/StupidDK/youths)
 - [电商后台管理系统-Vue](https://github.com/miles-rush/vuedemo)
-- [问卷视频管理系统-Vue+Electron13+Vite](https://github.com/miles-rush/questionnaire-window)
+- [视频模态抑郁症识别数据采集系统-Vue+Electron13+Vite](https://github.com/miles-rush/questionnaire-window)
 - [视频切割工具包-Python+Ffmpeg](https://github.com/miles-rush/LocalVideoPart)
 - [视频云解析网站](https://github.com/miles-rush/VideoRes)
 - [PDR室内定位APP](https://github.com/miles-rush/IndoorNavigation)
