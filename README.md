@@ -6,7 +6,7 @@
 
 - 浙江某大学计算机专业研究生
 - ⚡ `软件工程` && `人工智能` && `物联网？`
-- 💬 扣扣邮箱，欢迎一起讨论学习：[zhuoshumian@qq.com](mailto:zhuoshumian@qq.com)
+- 💬 扣扣邮箱，欢迎一起讨论学习：[kingraingrey@foxmail.com](mailto:kingraingrey@foxmail.com)
 - ⭐个人主页： [吾月花若梦](https://mirrormoon.top/)
 - ⭐个人博客： [博客园](https://www.cnblogs.com/KingRainGrey/)
 - ⭐Leetcode： [主页](https://leetcode.cn/u/ilovey/)
