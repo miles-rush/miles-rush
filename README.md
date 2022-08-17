@@ -52,7 +52,7 @@
 - ...
 
 ### 正在做的事
-`毕业论文`&& `大全栈` && `秋招`
+ `大前端` && `秋招` && `毕业论文`
 
 [![KingRainGrey's github stats](https://github-readme-stats.vercel.app/api?username=miles-rush&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
