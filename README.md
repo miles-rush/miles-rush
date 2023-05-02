@@ -35,7 +35,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - ...
 
-### 开源项目
+<!-- ### 开源项目
 - [工大充电桩小程序-wx](https://github.com/miles-rush/charge)
 - [VEK后台管理系统-Vue+Koa2+Vite](https://github.com/miles-rush/manager-fe)
 - [大衡轨迹后台系统](https://gitee.com/KingRainGrey/vue_traffic)
@@ -49,9 +49,9 @@
 - [B站工具包](https://github.com/Bulletrushman/bilibiliTools)
 - [Gitee](https://gitee.com/KingRainGrey)
 - ...
-
-### 正在做的事
- `大前端` && `秋招` && `毕业论文`
+ -->
+<!-- ### 正在做的事
+ `大前端` && `秋招` && `毕业论文` -->
 
 [![KingRainGrey's github stats](https://github-readme-stats.vercel.app/api?username=miles-rush&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
